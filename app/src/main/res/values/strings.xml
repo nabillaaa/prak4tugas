@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">intent-implisit</string>
+    <string name="string_open_nomer" />
+    <string name="string_masukkan_url" />
+    <string name="string_open_browser" />
+    <string name="string_buka_lokasi" />
+    <string name="string_open_location" />
+    <string name="string_masukkan_text" />
+    <string name="string_share_text" />
+    <string name="string_nomer_telphone" />
+</resources>
